@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=tblong0210&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tblong0210&theme=radical&hide_border=false" alt="GitHub Streak">
   </div>
